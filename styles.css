@@ -1,0 +1,68 @@
+body, html {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    font-family: system-ui;
+}
+.header {
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+.wrapper {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+}
+.content {
+    height: 90%;
+    width: 100%;
+    background-color: rgb(198, 197, 197);
+    padding: 50px;
+}
+#first {
+    margin: auto;
+    width: 500px;
+    height: auto;
+    background-color: white;
+}
+.title {
+    display: flex;
+    justify-content:space-between;
+    padding: 0 10px 0 10px;
+}
+.title p {
+    color: rgb(199, 197, 197);
+}
+#first img {
+    width: 100%;
+    height: 100%;
+}
+.foot {
+    padding-left: 10px;
+    vertical-align: bottom;
+    padding-bottom: 1px;
+}
+#second {
+    width: 500px;
+    height: auto;
+    background-color: white;
+    margin: auto;
+    margin-top: 40px;
+}
+#second img {
+    width: 100%;
+    height: 100%;
+}
+#third {
+    width: 500px;
+    height: auto;
+    background-color: white;
+    margin: auto;
+    margin-top: 40px;
+}
+#third img {
+    width: 100%;
+    height: 100%;
+}
